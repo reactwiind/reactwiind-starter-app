@@ -1,4 +1,4 @@
-# Reactwiind UI Library- Monorepo starter webapp
+# Reactwiind UI Library- starter webapp
 
 ## Run any of the below
 
